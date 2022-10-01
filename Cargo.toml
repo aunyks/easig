@@ -1,0 +1,11 @@
+[package]
+name = "easig"
+description = "My easy to use signal processing toolkit."
+authors = ["Nash (@aunyks) <me@aunyks.com>"]
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dev-dependencies]
+nalgebra = "0.31.1"
